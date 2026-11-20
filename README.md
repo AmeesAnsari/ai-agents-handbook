@@ -1,5 +1,7 @@
 # AI Agents Handbook
 
+[![License](https://img.shields.io/badge/license-CC%20BY%204.0%20%2B%20MIT-green)](LICENSE)
+
 My working notes on designing, building and running LLM agents in production. Each chapter has a short explanation, the trade-offs I care about, and links to the primary sources.
 
 These notes come from building AI and automation services (speech scoring, incident automation, IoT pipelines) and from reading the sources listed in each chapter. Last reviewed **November 2026**.
